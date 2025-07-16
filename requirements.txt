@@ -1,6 +1,6 @@
 streamlit
 xgboost
 scikit-learn
-tensorflow
+tensorflow==2.13.0
 pandas
 joblib
